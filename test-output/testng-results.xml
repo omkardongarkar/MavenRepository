@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15355" started-at="2021-03-04T10:17:22 IST" finished-at="2021-03-04T10:17:38 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15355" started-at="2021-03-04T10:17:22 IST" finished-at="2021-03-04T10:17:38 IST">
+      <class name="MavenProject.MavenAutomation.DemoTest">
+        <test-method status="PASS" signature="Sample()[pri:0, instance:MavenProject.MavenAutomation.DemoTest@57855c9a]" name="Sample" duration-ms="15205" started-at="2021-03-04T10:17:22 IST" finished-at="2021-03-04T10:17:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sample -->
+      </class> <!-- MavenProject.MavenAutomation.DemoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
